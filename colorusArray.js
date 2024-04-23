@@ -1,5 +1,7 @@
+// Export the coloursArray so it can be imported in other files
 export { coloursArray };
 
+// Define an array of color names
 const coloursArray = [
     "aliceblue",
     "antiquewhite",
